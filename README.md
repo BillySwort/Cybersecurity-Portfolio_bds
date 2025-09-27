@@ -1,2 +1,3 @@
-# Cybersecurity-Portfolio_bds
-Portfolio of cybersecurity labs and projects
+# Cybersecurity Portfolio
+
+This is my cybersecurity portfolio where I will store labs, projects, and notes.
